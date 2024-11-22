@@ -1,2 +1,2 @@
-# auto-gpt-ts
-auto-gpt-ts
+# auto-gpssds
+auto-gptssds
